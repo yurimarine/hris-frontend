@@ -1,7 +1,9 @@
 export default function Home() {
   return (
     <main className="flex items-center justify-center h-screen bg-blue-100">
-      <h1 className="text-4xl font-bold text-blue-800">Another Change</h1>
+      <h1 className="text-4xl font-bold text-blue-800">
+        Test Git Branch Change
+      </h1>
     </main>
   );
 }
